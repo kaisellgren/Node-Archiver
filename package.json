@@ -1,0 +1,40 @@
+{
+    "name": "archiver",
+    "version": "0.0.1",
+    "description": "Provides support for reading and writing common archive formats such as Zip, RAR, 7-Zip, TAR, GZ, ISO.",
+    "keywords": [
+        "zip",
+		"tar",
+		"rar",
+		"7-zip",
+		"iso",
+		"extract",
+		"archive",
+        "compression"
+    ],
+    "homepage": "https://github.com/kaisellgren/Node-Archiver",
+    "author": "Kai Sellgren",
+    "contributors": [
+        "Kai Sellgren"
+    ],
+    "bugs": {
+        "url": "https://github.com/kaisellgren/Node-Archiver/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/kaisellgren/Node-Archiver/raw/master/LICENSE"
+        }
+    ],
+    "main": "lib/archiver.js",
+    "repository": {
+        "type": "git",
+        "url": "https://kaisellgren@github.com/kaisellgren/Node-Archiver.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {},
+    "engines": {
+        "node": ">=0.6.0"
+    }
+}
